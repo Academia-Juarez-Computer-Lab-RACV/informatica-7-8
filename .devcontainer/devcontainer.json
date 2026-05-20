@@ -40,9 +40,9 @@
                 "editor.occurrencesHighlight": "off",
                 "editor.parameterHints.enabled": false,
                 "editor.quickSuggestions": {
-                    "other": "on", //Modified to on
+                    "other": "on", //Modified to on just for this course
                     "comments": "off",
-                    "strings": "on" //Modified to on
+                    "strings": "on" //Modified to on just for this course
                 },
                 "editor.renderWhitespace": "selection",
                 "editor.selectionHighlight": false,
@@ -59,7 +59,7 @@
                     }
                 },
                 "editor.stickyScroll.enabled": false,
-                "editor.suggestOnTriggerCharacters": true, //Modified to true
+                "editor.suggestOnTriggerCharacters": false, //Modified to true just for this course TESTING FALSE
                 "extensions.ignoreRecommendations": true,
                 "explorer.autoOpenDroppedFile": false,
                 "explorer.compactFolders": false,
@@ -116,7 +116,7 @@
                 "java.inlayHints.parameterNames.enabled": "none",
                 "java.debug.settings.enableRunDebugCodeLens": false,
                 "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
-                "javascript.suggest.enabled": true, // Modified to true
+                "javascript.suggest.enabled": true, // Modified to true just for this course
                 "javascript.validate.enable": false, /* Disable red squiggles */
                 "Prettier-SQL.keywordCase": "upper",
                 "problems.decorations.enabled": false,
