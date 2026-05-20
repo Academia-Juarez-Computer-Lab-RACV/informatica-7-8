@@ -102,7 +102,7 @@
                 "github.copilot.chat.codeGeneration.useInstructionFiles": true,
                 "chat.commandCenter.enabled": false,
                 "chat.agent.enabled": false,
-                "html.autoCreateQuotes": true, //Modified to true
+                "html.autoCreateQuotes": false,
                 "html.format.indentInnerHtml": true,
                 "html.suggest.html5": false,
                 "java.server.launchMode": "Standard",
