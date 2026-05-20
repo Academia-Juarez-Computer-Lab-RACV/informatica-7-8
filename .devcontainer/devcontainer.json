@@ -103,7 +103,7 @@
                 "chat.agent.enabled": false,
                 "html.autoCreateQuotes": false,
                 "html.format.indentInnerHtml": true,
-                "html.suggest.html5": false,
+                "html.suggest.html5": true,
                 "java.server.launchMode": "Standard",
                 "java.configuration.runtimes": [
                     {
